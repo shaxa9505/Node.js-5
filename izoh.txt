@@ -1,0 +1,10 @@
+1-WINDOW globalni obyekt buyicha tushuncha
+2-Modullar haqida tushuncha
+3-Package.json haqida tushuncha va node.modulees
+4-Slugify haqida tushuncha
+5-Node Debug Node require node-snippets ustanovka
+6-Local va Global haqida tushuncha yani modullani local va global ustanovka qilish
+7-Nodemon haqida tushuncha
+8-Npm i haqida tushuncha
+9-Export Import haqida tushuncha
+10-Node.jsni uzini ichidegi modullar path fs 
